@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "369557986970",
+    "firebase_url": "https://hdbr-kampfinder.firebaseio.com",
+    "project_id": "hdbr-kampfinder",
+    "storage_bucket": "hdbr-kampfinder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369557986970:android:32a4bff45939b6e9c0c923",
+        "android_client_info": {
+          "package_name": "com.aditya.hdbrkampfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369557986970-i7ham3b9qvpstgcgmvcb389kako19dik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aditya.hdbrkampfinder",
+            "certificate_hash": "977bb403c9a89b8ce1821eb9e120e89b394ebc66"
+          }
+        },
+        {
+          "client_id": "369557986970-f322bfoon3n19m1gm6cjb9v8gjoovugu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRJYQaF0e1UFYzlgCu46POJJIdq5pE1Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369557986970-f322bfoon3n19m1gm6cjb9v8gjoovugu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

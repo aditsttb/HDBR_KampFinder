@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_weight="3"
+    android:layout_height="match_parent"
+    tools:context=".Menu.SplashScreen">
+
+
+    <TextView
+        android:elevation="3dp"
+        android:id="@+id/tvSplashScreen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="15pt"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textSize="15pt"
+        android:text="HDBR HADE \nDINA HATE"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/logo_hdbr" />
+
+
+    <ProgressBar
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="80dp" />
+
+</LinearLayout>
